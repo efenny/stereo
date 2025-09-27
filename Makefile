@@ -9,9 +9,13 @@ build:
 	
 	@go build -o main cmd/api/main.go
 
-# Run the application
+# Run the server application
 run:
 	@go run cmd/api/main.go
+
+# Run the cli application
+run-cli:
+	@go run main.go $(ARGS)
 
 # Test the application
 test:

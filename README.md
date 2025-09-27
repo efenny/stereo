@@ -6,6 +6,14 @@ One Paragraph of project description goes here
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+### CLI
+
+Run:
+
+```bash
+make run-cli ARGS="process -f {{ path to json file }}"
+```
+
 ## MakeFile
 
 Run build make command with tests
@@ -18,9 +26,14 @@ Build the application
 make build
 ```
 
-Run the application
+Run the server application
 ```bash
 make run
+```
+
+Run the cli application
+```bash
+make run-cli
 ```
 
 Live reload the application:
