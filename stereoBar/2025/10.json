@@ -1,0 +1,211 @@
+{
+  "venue": "StereoBar",
+  "date": "Oct 2025",
+  "ticketLink": "https://www.tixr.com/groups/stereobar",
+  "events": [
+    {
+      "date": "Oct 03",
+      "artists": [
+        {
+          "name": "Kenny Larkin",
+          "headliner": true,
+          "streamingPlatforms": [
+            {
+              "company": "spotify",
+              "id": "7A4qanEMCOPcywaqZ01yVV"
+            }
+          ]
+        },
+        {
+          "name": "Tazz",
+          "streamingPlatforms": [
+            {
+              "company": "soundCloud",
+              "id": "tazz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "Oct 04",
+      "artists": [
+        {
+          "name": "Marcel Dettmann",
+          "allNightLong": true,
+          "streamingPlatforms": [
+            {
+              "company": "spotify",
+              "id": "1sxHp39RqBEE01pgVqsdyP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "Oct 05",
+      "artists": [
+        {
+          "name": "Molyness",
+          "headliner": true,
+          "allNightLong": true,
+          "streamingPlatforms": [
+            {
+              "company": "soundCloud",
+              "id": "molyness"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "Oct 10",
+      "artists": [
+        {
+          "name": "Liva K",
+          "headliner": true,
+          "allNightLong": true,
+          "streamingPlatforms": [
+            {
+              "company": "soundCloud",
+              "id": "liva-k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "Oct 11",
+      "artists": [
+        {
+          "name": "Ostrich",
+          "headliner": true,
+          "allNightLong": true,
+          "streamingPlatforms": [
+            {
+              "company": "soundCloud",
+              "id": "ostr-ch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "Oct 12",
+      "artists": [
+        {
+          "name": "Obskϋr",
+          "headliner": true,
+          "streamingPlatforms": [
+            {
+              "company": "spotify",
+              "id": "29MTNlaVntQaQiDyj8KGwx"
+            }
+          ]
+        },
+        {
+          "name": "Napo Lugo",
+          "streamingPlatforms": [
+            {
+              "company": "soundCloud",
+              "id": "napolugo"
+            }
+          ]
+        },
+        {
+          "name": "Nymra Sofisticated",
+          "streamingPlatforms": [
+            {
+              "company": "soundCloud",
+              "id": "nymra-sofisticated"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "Oct 17",
+      "artists": [
+        {
+          "name": "Opposite Direktion",
+          "headliner": true,
+          "streamingPlatforms": [
+            {
+              "company": "soundCloud",
+              "id": "oppositedirektion"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "Oct 18",
+      "artists": [
+        {
+          "name": "Anna Forest",
+          "allNightLong": true,
+          "streamingPlatforms": [
+            {
+              "company": "soundCloud",
+              "id": "annaforest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "Oct 19",
+      "artists": [
+        {
+          "name": "Erikel",
+          "allNightLong": true,
+          "streamingPlatforms": [
+            {
+              "company": "spotify",
+              "id": "6ZxQphvx5MuI3m1xzHSE6C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "Oct 24",
+      "artists": [
+        {
+          "name": "FAMÜ",
+          "headliner": true,
+          "streamingPlatforms": [
+            {
+              "company": "spotify",
+              "id": "5hK2PEEpYQ6snx243Upne8"
+            }
+          ]
+        },
+        {
+          "name": "K.lein",
+          "streamingPlatforms": [
+            {
+              "company": "soundCloud",
+              "id": "klein_mtl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "Oct 25",
+      "artists": [
+        {
+          "name": "La Santa",
+          "allNightLong": true,
+          "streamingPlatforms": [
+            {
+              "company": "spotify",
+              "id": "4CGXFRuE498C4QKcjxiprx"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
